@@ -1,16 +1,11 @@
 ## Olá, eu sou o Devyd Silva 👋
 
 <div align="center">
-  <div style="display: inline-block; padding: 10px 20px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); border-radius: 15px; color: white; font-weight: bold; animation: float 3s ease-in-out infinite; box-shadow: 0 4px 15px rgba(102, 126, 234, 0.4); margin-right: 20px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="30" height="30" style="vertical-align: middle; margin-right: 8px;"/>
-    React Native
-  </div>
+  <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" style="animation: float 3s ease-in-out infinite; margin-right: 20px;"/>
   
-  <div style="display: inline-block; vertical-align: top;">
-    🍒 Hoje trabalho com **React Native**  
-    🍇 Estudando **Ciência da Computação**  
-    😁 **Pronouns**: ele/dele
-  </div>
+  🍒 Hoje trabalho com **React Native**  
+  🍇 Estudando **Ciência da Computação**  
+  😁 **Pronouns**: ele/dele
 </div>
 
 <style>
@@ -19,7 +14,7 @@
       transform: translateY(0px);
     }
     50% { 
-      transform: translateY(-15px);
+      transform: translateY(-20px);
     }
   }
 </style>  
