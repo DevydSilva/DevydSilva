@@ -1,8 +1,44 @@
 ## Olá, eu sou o Devyd Silva 👋
 
-🍒 Hoje trabalho com **React Native**  
-🍇 Estudando **Ciência da Computação**  
-😁 **Pronouns**: ele/dele  
+<table>
+  <tr>
+    <td>
+      <div class="tech-badge">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="30" height="30" style="vertical-align: middle; margin-right: 8px;"/>
+        React Native
+      </div>
+    </td>
+    <td>
+      <div>
+        🍒 Hoje trabalho com **React Native**  
+        🍇 Estudando **Ciência da Computação**  
+        😁 **Pronouns**: ele/dele
+      </div>
+    </td>
+  </tr>
+</table>
+
+<style>
+  .tech-badge {
+    display: inline-block;
+    padding: 10px 15px;
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    border-radius: 10px;
+    color: white;
+    font-weight: bold;
+    animation: float 3s ease-in-out infinite;
+    box-shadow: 0 4px 15px rgba(102, 126, 234, 0.4);
+  }
+  
+  @keyframes float {
+    0%, 100% { 
+      transform: translateY(0px);
+    }
+    50% { 
+      transform: translateY(-10px);
+    }
+  }
+</style>  
 
 <div align="center">
   <a href="https://github.com/DevydSilva">
@@ -26,13 +62,19 @@
   <img align="center" alt="CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="CSharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+  <img align="center" alt="Next.js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
+  <img align="center" alt="Vite" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vitejs/vitejs-original.svg">
+  <img align="center" alt="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+  <img align="center" alt="Arduino" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg">
+  <img align="center" alt="Figma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
   <img align="right" alt="Devyd" height="150" style="border-radius:250px;" src="https://lh3.googleusercontent.com/pw/AM-JKLVxbSynYmXMU49faPb_7Ug-vtYIOWbFpGShfBKhGc0D8pSPWzMp_Mk7WdSJBHMreC396DAg5JhnCa5jfbUslz0d2nkUERLQ8rLCOEybDPg2kA_bMuroKRO5jSP2U2y040VLuaoM1j4YT-UA5mABIG16=w922-h872-no?authuser=0">
 </div>
 
 ## Conecte-se comigo
 
 <div>
-  <a href="https://www.youtube.com/channel/UC4vaJzLATh4iHhbNf5_viFg" target="_blank">
+  <a href="https://www.youtube.com/@ScorpionDev-t4i" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank">
   </a>
   <a href="https://www.instagram.com/devydsilvade/" target="_blank">
@@ -47,7 +89,8 @@
   <a href="mailto:devyd.santana20201@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
-  <a href="https://www.linkedin.com/in/devyd-silva-110a01208/" target="_blank">
+  <a href="https://www.linkedin.com/in/devyd-silva-813aa8330/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 </div>
+
