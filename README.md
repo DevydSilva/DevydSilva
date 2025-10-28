@@ -1,41 +1,25 @@
 ## Olá, eu sou o Devyd Silva 👋
 
-<table>
-  <tr>
-    <td>
-      <div class="tech-badge">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="30" height="30" style="vertical-align: middle; margin-right: 8px;"/>
-        React Native
-      </div>
-    </td>
-    <td>
-      <div>
-        🍒 Hoje trabalho com **React Native**  
-        🍇 Estudando **Ciência da Computação**  
-        😁 **Pronouns**: ele/dele
-      </div>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <div style="display: inline-block; padding: 10px 20px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); border-radius: 15px; color: white; font-weight: bold; animation: float 3s ease-in-out infinite; box-shadow: 0 4px 15px rgba(102, 126, 234, 0.4); margin-right: 20px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="30" height="30" style="vertical-align: middle; margin-right: 8px;"/>
+    React Native
+  </div>
+  
+  <div style="display: inline-block; vertical-align: top;">
+    🍒 Hoje trabalho com **React Native**  
+    🍇 Estudando **Ciência da Computação**  
+    😁 **Pronouns**: ele/dele
+  </div>
+</div>
 
 <style>
-  .tech-badge {
-    display: inline-block;
-    padding: 10px 15px;
-    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
-    border-radius: 10px;
-    color: white;
-    font-weight: bold;
-    animation: float 3s ease-in-out infinite;
-    box-shadow: 0 4px 15px rgba(102, 126, 234, 0.4);
-  }
-  
   @keyframes float {
     0%, 100% { 
       transform: translateY(0px);
     }
     50% { 
-      transform: translateY(-10px);
+      transform: translateY(-15px);
     }
   }
 </style>  
